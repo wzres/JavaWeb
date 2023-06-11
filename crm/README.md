@@ -4,13 +4,13 @@
 
 
 
-一共有4个类
+一共有4个类在`crm\java`
 
 `HelloServlet.java(java小程序)`
 
 `HelloServletSQL.java(连接数据库)`
 
-``HttpServletDB.java(连接数据库，封装)`
+`HttpServletDB.java(连接数据库，封装)`
 
 `DBUtil.java(JDBC工具类)`
 
