@@ -1,10 +1,17 @@
+## 目录
+
+有2个目录
+
+1. 一个是crm项目
+2. 另一个是tmp模板(用于测试)
+
 ## 必备操作
 
 先把crm目录放到`G:\java\tomcat\webapps`
 
 
 
-一共有4个类在`crm\java`
+一共有4个类，源代码都放在`crm\code`
 
 `HelloServlet.java(java小程序)`
 
